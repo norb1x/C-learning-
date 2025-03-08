@@ -1,0 +1,14 @@
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\bin\Debug\net9.0\BankManagement.exe
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\bin\Debug\net9.0\BankManagement.deps.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\bin\Debug\net9.0\BankManagement.runtimeconfig.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\bin\Debug\net9.0\BankManagement.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\bin\Debug\net9.0\BankManagement.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\BankManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\BankManagement.AssemblyInfoInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\BankManagement.AssemblyInfo.cs
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\BankManagement.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\refint\BankManagement.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\BankManagement.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\BankManagement.genruntimeconfig.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\BankManagement\BankManagement\obj\Debug\net9.0\ref\BankManagement.dll
