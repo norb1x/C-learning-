@@ -1,0 +1,14 @@
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\bin\Debug\net9.0\PaymentIntegration.exe
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\bin\Debug\net9.0\PaymentIntegration.deps.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\bin\Debug\net9.0\PaymentIntegration.runtimeconfig.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\bin\Debug\net9.0\PaymentIntegration.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\bin\Debug\net9.0\PaymentIntegration.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\PaymentIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\PaymentIntegration.AssemblyInfoInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\PaymentIntegration.AssemblyInfo.cs
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\PaymentIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\PaymentIntegration.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\refint\PaymentIntegration.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\PaymentIntegration.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\PaymentIntegration.genruntimeconfig.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\PaymentIntegration\PaymentIntegration\obj\Debug\net9.0\ref\PaymentIntegration.dll
