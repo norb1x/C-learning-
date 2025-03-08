@@ -1,0 +1,14 @@
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\ImplementacjaLogowania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\ImplementacjaLogowania.AssemblyInfoInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\ImplementacjaLogowania.AssemblyInfo.cs
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\ImplementacjaLogowania.csproj.CoreCompileInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\bin\Debug\net9.0\ImplementacjaLogowania.exe
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\bin\Debug\net9.0\ImplementacjaLogowania.deps.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\bin\Debug\net9.0\ImplementacjaLogowania.runtimeconfig.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\bin\Debug\net9.0\ImplementacjaLogowania.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\bin\Debug\net9.0\ImplementacjaLogowania.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\ImplementacjaLogowania.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\refint\ImplementacjaLogowania.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\ImplementacjaLogowania.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\ImplementacjaLogowania.genruntimeconfig.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\ImplementacjaLogowania\ImplementacjaLogowania\obj\Debug\net9.0\ref\ImplementacjaLogowania.dll
