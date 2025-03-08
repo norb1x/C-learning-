@@ -1,0 +1,14 @@
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\bin\Debug\net9.0\TemperatureMonitorApp.exe
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\bin\Debug\net9.0\TemperatureMonitorApp.deps.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\bin\Debug\net9.0\TemperatureMonitorApp.runtimeconfig.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\bin\Debug\net9.0\TemperatureMonitorApp.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\bin\Debug\net9.0\TemperatureMonitorApp.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\TemperatureMonitorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\TemperatureMonitorApp.AssemblyInfoInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\TemperatureMonitorApp.AssemblyInfo.cs
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\TemperatureMonitorApp.csproj.CoreCompileInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\TemperatureMonitorApp.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\refint\TemperatureMonitorApp.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\TemperatureMonitorApp.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\TemperatureMonitorApp.genruntimeconfig.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\SystemMonitorowaniaTemperatury\TemperatureMonitorApp\obj\Debug\net9.0\ref\TemperatureMonitorApp.dll
