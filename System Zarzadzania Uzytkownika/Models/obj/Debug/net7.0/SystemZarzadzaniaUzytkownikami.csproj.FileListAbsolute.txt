@@ -1,0 +1,4 @@
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\System Zarzadzania Uzytkownika\Models\obj\Debug\net7.0\SystemZarzadzaniaUzytkownikami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\System Zarzadzania Uzytkownika\Models\obj\Debug\net7.0\SystemZarzadzaniaUzytkownikami.AssemblyInfoInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\System Zarzadzania Uzytkownika\Models\obj\Debug\net7.0\SystemZarzadzaniaUzytkownikami.AssemblyInfo.cs
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\System Zarzadzania Uzytkownika\Models\obj\Debug\net7.0\SystemZarzadzaniaUzytkownikami.csproj.CoreCompileInputs.cache
