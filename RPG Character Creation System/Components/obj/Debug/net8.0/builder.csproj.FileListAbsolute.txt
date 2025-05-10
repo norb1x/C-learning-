@@ -1,0 +1,14 @@
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\bin\Debug\net8.0\builder.exe
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\bin\Debug\net8.0\builder.deps.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\bin\Debug\net8.0\builder.runtimeconfig.json
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\bin\Debug\net8.0\builder.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\bin\Debug\net8.0\builder.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\builder.AssemblyInfoInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\builder.AssemblyInfo.cs
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\builder.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\refint\builder.dll
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\builder.pdb
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\builder.genruntimeconfig.cache
+C:\Users\Norbert GIGACHAD\Desktop\ProjektyNaStudia\Tworzenie postaci w grze RPG\Components\obj\Debug\net8.0\ref\builder.dll
