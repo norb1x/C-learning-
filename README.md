@@ -32,6 +32,32 @@
 - Dual output (console + file)
 - Timestamp formatting
 - Exception prevention mechanisms
+  
+### 5. RPG Character Creation System
+Pattern: Builder
+Features:
+
+Create customizable RPG characters with class, race, and abilities
+
+Interactive CLI interface for selecting character components
+
+Supports adding new components and expanding character creation options easily
+
+Displays final character details (class, race, abilities)
+
+6. User Management System
+Pattern: Facade
+Features:
+
+Adds, updates, and deletes user profiles
+
+Secure user data storage and access
+
+Interactive CLI interface for user management
+
+Multiple user roles and permissions management
+
+
 
 ## 🔧 Unit Tests Specification
 
