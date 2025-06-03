@@ -1,4 +1,4 @@
-using System; // Dodano brakującą przestrzeń nazw
+using System; 
 
 namespace RPGGame.Components
 {
