@@ -1,0 +1,26 @@
+@model List<TaskManagerMVC.Models.Task>
+
+<h2>Lista zadań</h2>
+<a href="/Task/Create">Dodaj nowe zadanie</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>Tytuł</th>
+            <th>Opis</th>
+            <th>Priorytet</th>
+            <th>Użytkownik</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var task in Model)
+    {
+        <tr>
+            <td>@task.Tytul</td>
+            <td>@task.Opis</td>
+            <td>@task.Priorytet</td>
+            <td>@task.Uzytkownik</td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,19 @@
+@model TaskManagerMVC.Models.Task
+
+<h2>Dodaj nowe zadanie</h2>
+
+<form asp-action="Create" method="post">
+    <label>Tytuł:</label>
+    <input asp-for="Tytul" />
+    <br />
+    <label>Opis:</label>
+    <input asp-for="Opis" />
+    <br />
+    <label>Priorytet:</label>
+    <input asp-for="Priorytet" />
+    <br />
+    <label>Użytkownik:</label>
+    <input asp-for="Uzytkownik" />
+    <br />
+    <button type="submit">Dodaj</button>
+</form>
