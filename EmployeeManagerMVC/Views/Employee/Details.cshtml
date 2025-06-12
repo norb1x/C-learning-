@@ -1,0 +1,39 @@
+@model IEnumerable<EmployeeManagerMVC.Models.Employee>
+
+@{
+    ViewData["Title"] = "Lista pracowników";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Dodaj nowego pracownika</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>Stanowisko</th>
+            <th>Lata doświadczenia</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Imie</td>
+            <td>@emp.Nazwisko</td>
+            <td>@emp.Stanowisko</td>
+            <td>@emp.LataDoswiadczenia</td>
+            <td>
+                <a href="@Url.Action("Details", new { id = emp.Id })" class="btn btn-info btn-sm">Szczegóły</a>
+                <a href="@Url.Action("Edit", new { id = emp.Id })" class="btn btn-warning btn-sm">Edytuj</a>
+                <a href="@Url.Action("Delete", new { id = emp.Id })" class="btn btn-danger btn-sm">Usuń</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
